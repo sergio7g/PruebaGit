@@ -1,1 +1,4 @@
 Leche
+patatas
+galletas
+zumo
