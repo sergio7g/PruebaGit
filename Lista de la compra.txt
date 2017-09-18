@@ -2,3 +2,5 @@ Leche
 patatas
 galletas
 zumo
+Cerveza 
+Agua
